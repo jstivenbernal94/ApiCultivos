@@ -1,0 +1,12 @@
+C:\Tesis\Sistema\Sistema.Analisis.Planificacion.Dominio\bin\Debug\Sistema.Analisis.Planificacion.Dominio.dll
+C:\Tesis\Sistema\Sistema.Analisis.Planificacion.Dominio\bin\Debug\Sistema.Analisis.Planificacion.Dominio.pdb
+C:\Tesis\Sistema\Sistema.Analisis.Planificacion.Dominio\obj\Debug\Sistema.Analisis.Planificacion.Dominio.csprojAssemblyReference.cache
+C:\Tesis\Sistema\Sistema.Analisis.Planificacion.Dominio\obj\Debug\Sistema.Analisis.Planificacion.Dominio.csproj.CoreCompileInputs.cache
+C:\Tesis\Sistema\Sistema.Analisis.Planificacion.Dominio\obj\Debug\Sistema.Analisis.Planificacion.Dominio.dll
+C:\Tesis\Sistema\Sistema.Analisis.Planificacion.Dominio\obj\Debug\Sistema.Analisis.Planificacion.Dominio.pdb
+C:\Users\Usuario\source\repos\Tesis\Sistema\Sistema.Analisis.Planificacion.Dominio\bin\Debug\Sistema.Analisis.Planificacion.Dominio.dll
+C:\Users\Usuario\source\repos\Tesis\Sistema\Sistema.Analisis.Planificacion.Dominio\bin\Debug\Sistema.Analisis.Planificacion.Dominio.pdb
+C:\Users\Usuario\source\repos\Tesis\Sistema\Sistema.Analisis.Planificacion.Dominio\obj\Debug\Sistema.Analisis.Planificacion.Dominio.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Tesis\Sistema\Sistema.Analisis.Planificacion.Dominio\obj\Debug\Sistema.Analisis.Planificacion.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Tesis\Sistema\Sistema.Analisis.Planificacion.Dominio\obj\Debug\Sistema.Analisis.Planificacion.Dominio.dll
+C:\Users\Usuario\source\repos\Tesis\Sistema\Sistema.Analisis.Planificacion.Dominio\obj\Debug\Sistema.Analisis.Planificacion.Dominio.pdb
