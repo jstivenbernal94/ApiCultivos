@@ -14,7 +14,16 @@ namespace Sistema.Analisis.Planificacion.Dominio
         public string Id { get; set; }
 
         [DataMember]
-        public String Cultivo { get; set; }
+        public string Referencia { get; set; }
+
+        [DataMember]
+        public string Mac { get; set; }
+
+        [DataMember]
+        public string Propietario { get; set; }
+
+        [DataMember]
+        public String Consecutivo { get; set; }
 
         [DataMember]
         public string Fecha { get; set; }
@@ -30,11 +39,9 @@ namespace Sistema.Analisis.Planificacion.Dominio
 
         [DataMember]
         public string FC28 { get; set; }
+
+        [DataMember]
+        public string lumm { get; set; }
     }
 
-    public class otroobje
-    {
-        public List<string> content { get; set; }
-    }
-    
 }

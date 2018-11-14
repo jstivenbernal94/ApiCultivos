@@ -33,7 +33,7 @@ namespace Sistema.Analisis.Planificacion.FireBaseRepositorio
             IFirebaseClient client = cnn.ConectarseFireBase();
             List<DatosSensores> Result = new List<DatosSensores>();
 
-            FirebaseResponse response = await client.GetTaskAsync("DHT11");
+            FirebaseResponse response = await client.GetTaskAsync("LECTURAS");
             string chrr = response.Body;
 
             dynamic dynJson = JsonConvert.DeserializeObject(chrr);
@@ -43,13 +43,16 @@ namespace Sistema.Analisis.Planificacion.FireBaseRepositorio
                 foreach (var tm in item)
                 {
                     respu.Id = tm.Id;
-                    respu.Cultivo = tm.Cultivo;
+                    respu.Mac = tm.Mac;
+                    respu.Propietario = tm.Propietario;
+                    respu.Referencia = tm.Referencia;
+                    respu.Consecutivo = tm.Consecutivo;
                     respu.Fecha = tm.Fecha;
                     respu.HumedadPow = tm.HumedadPow;
                     respu.TemperaturaC = tm.TemperaturaC;
                     respu.TemperaturaF = tm.TemperaturaF;
                     respu.FC28 = tm.fc28;
-                    //respu.lumm = respu.lumm;
+                    respu.lumm = tm.luz;
                 }
                 Result.Add(respu);
             }
